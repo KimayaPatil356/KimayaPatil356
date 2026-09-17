@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src=""C:\Users\HP\Downloads\ChatGPT Image Sep 17, 2026, 06_13_08 PM.png"" width="100%">
+</p>
+<h3 align="center">Hi there, 👋 I'm [Kimaya Patil]</h3>
+<h4 align="center">Artificial Intelligence and Machine Learning| Engineering Student | Full-Stack Developer | ML & AI Builder</h4>
+
+<p align="center">
+I'm passionate about solving complex algorithmic problems with C++, building full-stack platforms, and exploring the depths of Machine Learning. 
+</p>
